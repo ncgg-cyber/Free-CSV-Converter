@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "CSVtoAny - Free CSV Converter",
-  "description": "Quickly convert CSV, Excel, JSON, and PDF files directly from your browser.",
+  "description": "Convert CSV files into clean, structured formats with one click.",
   "version": "1.0",
   "action": {
     "default_popup": "popup.html",
